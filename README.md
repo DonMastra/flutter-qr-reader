@@ -1,8 +1,11 @@
 # qr_reader
 
 A new Flutter project.
+Flutter qr-reader training app.
 
 ## Getting Started
+
+Once you've cloned the repo, run the command "flutter pub get" to update dependencies and get the app running.
 
 This project is a starting point for a Flutter application.
 
